@@ -4,6 +4,8 @@
 
 Dieses Repository enthält **keinen produktiven Code**, sondern dokumentiert unsere fachlichen Positionen, Referenzarchitekturen und Begriffsdefinitionen. Es richtet sich an technische und fachliche Ansprechpartner in Behörden, an IT-Dienstleister im GovTech-Bereich sowie an Kolleginnen und Kollegen aus Beratung und Forschung.
 
+**Verantwortlich:** JAM
+
 ## Inhalte
 
 ### 📐 [Referenzarchitekturen](./architectures)
